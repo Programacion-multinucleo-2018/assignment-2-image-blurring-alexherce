@@ -12,9 +12,11 @@ Include a Pdf file with the results of the testing for each case. Measure the ti
 
 Rubric:
 
-1. The program shows the original image, and the blurred image.
-2. Applied a 5x5 bluring window.
-3. Images are loaded and displayed correctly.
-4. GPU code is initialized correctly.
-5. The report file has tables with the performance data for the different configurations, as well as for the speedup obtained.
-6. The report file has the computer's characteristics, as well as the conclusions.
+1. The program shows the original image, and the blurred image. *Complete*
+2. Applied a 5x5 bluring window. *Complete*
+3. Images are loaded and displayed correctly. *Complete*
+4. GPU code is initialized correctly. *Complete*
+5. The report file has tables with the performance data for the different configurations, as well as for the speedup obtained. *Complete*
+6. The report file has the computer's characteristics, as well as the conclusions. *Complete*
+
+**Grade: 105**
